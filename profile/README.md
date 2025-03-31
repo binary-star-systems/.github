@@ -12,5 +12,5 @@ unenlightened masses. Some of our projects include:
 
 <details>
   <summary>Fun fact</summary>
-  _Did you know that...Type II supernovae create the element Gallium?_
+  <em>Did you know that...Type II supernovae create the element Gallium?</em>
 </details>
