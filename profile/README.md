@@ -2,7 +2,11 @@
 
 We are free software hackers and functional programming evangelists seeking to
 bring purely functional reproducible (operating | programming) systems to the
-unenlightened masses. Some of our projects include:
+unenlightened masses.
+
+We are based jointly in historied Cambridge, MA, and beautiful Santa Barbara, CA.
+
+Some of our projects include:
 
 - ❄️ Nix/NixOS projects
     - Two flagship Linux distributions, [liminalOS](https://github.com/youwen5/liminalOS) and [QuasarOS](https://github.com/quantum9innovation/quasaros)
