@@ -10,4 +10,7 @@ unenlightened masses. Some of our projects include:
     - The automatically-updating [GitButler flake](https://github.com/youwen5/gitbutler-flake)
 - [Suntheme](https://github.com/quantum9Innovation/suntheme), a purely functional light/dark system colorscheme orchestrator written in Haskell
 
-_Did you know that...Type II supernovae create the element Gallium?_
+<details>
+  <summary>Fun fact</summary>
+  _Did you know that...Type II supernovae create the element Gallium?_
+</details>
